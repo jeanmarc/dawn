@@ -1,7 +1,6 @@
 dawn
 ====
 
-First steps on the git path to enlightment
+First steps on the scala path to enlightment
 
-Change committed via https clone
-Another. Third.
+experiments with Scala constructs
