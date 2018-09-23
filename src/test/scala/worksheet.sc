@@ -1,5 +1,7 @@
 
 
+// Comparing sets of objects, by checking if sets are the same size, and all of A's elements are present in B
+
 class Content(val name: String, val value: String) {
   override def equals(o: Any): Boolean = {
     println(s"equals called on ${this} for ${o}")
